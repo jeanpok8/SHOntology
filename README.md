@@ -1,3 +1,3 @@
 # Smart Healthcare ontology 
 
-Is a combination of an extension of Semantic Sensors Network Ontology(SSNO) and Disease Ontology to infer an ontology that represents semantically Smart healthcare domain. 
+SH ontology is a combination of an extension of Semantic Sensors Network Ontology(SSNO) and Disease Ontology(DO) to infer an ontology that represents semantically Smart healthcare domain. The SHO also integrates smart healthcare scenarios such as the disease monitoring, disease rehabilitation and disease prevention.
